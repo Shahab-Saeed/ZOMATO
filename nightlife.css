@@ -1,0 +1,580 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+/* FOR HEADER */
+
+/* FOR SECTION A  */
+
+header nav .sectiona .c1 img {
+    height: 30px;
+}
+
+header nav .sectiona .c2b {
+    padding-left: 5px;
+    font-size: 14px;
+    color: rgb(180, 170, 170);
+}
+
+header nav .sectiona .c2e {
+    font-size: 14px;
+    color: rgb(180, 170, 170);
+    margin-left: 10px;
+}
+
+header nav .sectiona .c2 .ruler {
+    border-left: 2px solid rgb(180, 170, 170);
+    height: 20px;
+    width: 9px;
+}
+
+header nav .sectiona .c2 {
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(189, 185, 185);
+    padding: 12px;
+    box-shadow: 2px 4px 6px rgb(236, 233, 233);
+    width: 650px;
+    border-radius: 10px;
+}
+
+header nav .sectiona .c3 {
+    font-size: 16px;
+    color: rgb(180, 170, 170);
+    letter-spacing: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
+
+header nav .sectiona .child1 {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    align-items: center;
+}
+
+header nav .sectiona {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+header { 
+    padding-top: 0px ;
+    padding-left: 50px;
+    padding-right: 70px;
+    margin-bottom:20px;
+}
+
+/* FOR SECTION B */
+
+header .sectionb .c1{
+    font-size: 12px;
+    color: rgb(180, 170, 170);
+}
+
+header .sectionb .c1 span{
+    font-size: 12px;
+    color: rgb(206, 201, 201);
+}
+
+header .sectionb {
+    margin-bottom: 15px;
+}
+
+/* FOR SECTION C */
+
+header .sectionc .c1 .c1a img{
+    height: 30px;
+    
+
+}
+
+header .sectionc .c1 .c1a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   background-color: rgb(196, 247, 247);
+   height: 40px;
+   width: 40px;
+   padding: 8px;
+    border-radius: 50px;
+}
+
+header .sectionc .c1 .c1b a{
+    text-decoration: none;
+    font-size: 20px;
+    color: red; 
+}
+
+header .sectionc .c1{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+header .sectionc .c1 .c2 a{
+    font-size: 20px;
+    color: black; 
+}
+
+header .sectionc .c1 .c1aa img{
+    height: 30px;
+    
+
+}
+header .sectionc .c1aa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   background-color: rgb(234, 228, 228);
+   height: 40px;
+   width: 40px;
+   padding: 8px;
+    border-radius: 50px;
+}
+header .sectionc{
+    margin-top: 20px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    padding-left: 20px;
+    
+}
+/* FOR MAIN */
+/* SECTION A */
+main .sectiona .c1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+main .sectiona .c2 .c2a {
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(112, 109, 109);
+}
+
+main .sectiona .c2 .c2ba,
+.c2bb {
+    font-size: 16px;
+    font-weight: 400;
+    color: red;
+}
+
+main .sectiona .c2 .c2b {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+main .sectiona .c2 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+main .sectiona .c3 {
+    position: relative;
+    /* text-align: center; */
+
+}
+
+main .sectiona .c3 .c3a img {
+    height: 300px;
+    width: 259px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+main .sectiona .c3b {
+    position: absolute;
+    color: white;
+    top: 240px;
+    left: 18px;
+
+}
+
+main .sectiona .c3c {
+    position: absolute;
+    color: white;
+    top: 268px;
+    font-size: 14px;
+    left: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+}
+
+main .sectiona .child3 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+main .sectiona {
+    padding-bottom: 30px;
+    padding-top: 0px;
+    padding-left: 50px;
+    padding-right: 70px;
+    background-color: rgb(243, 247, 247);
+}
+
+/* FOR SECTION B */
+main .sectionb {
+    padding-top: 0px;
+    padding-left: 50px;
+    padding-right: 70px;
+}
+
+
+main .sectionb { 
+    margin-top: 20px;
+}
+
+main .sectionb .c1 .c1a img {
+    height: 20px;
+}
+
+main .sectionb .c1 .c1b {
+    font-size: 14px;
+    color: rgb(173, 168, 168);
+}
+
+
+main .sectionb .c1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+}
+
+main .sectionb .c1 {
+    border: 1px solid rgb(228, 224, 224);
+    border-radius: 10px;
+    padding: 6px;
+    height: 25px;
+    width: 90px;
+}
+
+main .sectionb .c2 .c1b {
+    font-size: 14px;
+    color: rgb(173, 168, 168);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main .sectionb .c2 {
+    border: 1px solid rgb(228, 224, 224);
+    border-radius: 10px;
+    padding: 6px;
+    height: 25px;
+    width: 90px;
+
+}
+
+main .sectionb .c2bc .c1bc {
+    font-size: 14px;
+    color: rgb(173, 168, 168);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main .sectionb .c2bc {
+    border: 1px solid rgb(228, 224, 224);
+    border-radius: 10px;
+    padding: 6px;
+    height: 25px;
+    width: 120px;
+}
+
+main .sectionb {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 50px;
+}
+
+main .sectionc {
+    padding-top: 0px;
+    padding-left: 50px;
+    padding-right: 70px;
+    margin-bottom: 40px;
+}
+
+main .sectionc .c1 img {
+    height: 250px;
+}
+
+main .sectionc .c2 {
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+/* FOR SECTION D */
+main .sectiond {
+    padding-top: 0px;
+    padding-left: 50px;
+    padding-right: 70px;
+    margin-bottom: 40px;
+}
+
+main .sectiond .child1 .c1 img {
+    height: 240px;
+    width: 330px;
+    border-radius: 20px;
+}
+
+main .sectiond .child1 .c2a,
+.c2ba,
+.c2bb {
+    font-size: 16px;
+}
+
+main .sectiond .child1 .c2ba,
+.c2bb {
+    color: white;
+    font-size: 14px;
+
+}
+
+main .sectiond .child1 .c2b{
+    background-color: green;
+    height: 16px;
+    padding: 2px 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    border-radius: 5px;
+
+}
+
+main .sectiond .child1{
+padding: 10px;
+    height: 320px;
+    width: 330px;
+    /* background-color: green; */
+}
+ main .sectiond .c2{
+    display: flex;
+    justify-content: space-between;
+ }
+ main .sectiond .c3{
+    font-size: 12px;
+    color: rgb(208, 202, 202);
+    display: flex;
+    justify-content: space-between;
+ }
+ 
+ main .sectiond .c4{
+    font-size: 12px;
+    color: rgb(208, 202, 202);
+    display: flex;
+    justify-content: space-between;
+ }
+
+ main .sectiond .c4b{
+    color: black;
+ }
+
+ main .sectiond .child1{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+ }
+
+ main .sectiond{
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+ }
+
+ /* FOR FOOTER */
+
+ /* <!-- FOR CHOICE SECTION  --> */
+footer .choicesection {
+    padding: 0px 60px;
+    padding-top: 50px;
+    
+}
+footer .choicesection .c1a{
+    font-size: 30px;
+    font-weight: 450;
+    margin-bottom: 15px;
+}
+
+footer .choicesectionb {
+    padding-top: 0px;
+    padding-right: 50px;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    margin-bottom: 40px;
+}
+
+
+footer .choicesectionb .c2a{
+    font-size: 20px;
+    font-weight: 300;
+  
+}
+
+footer .choicesectionb .c2{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(233, 227, 227);
+    padding: 15px;
+    
+    
+}
+
+/* <!-- FOR MAIN SECTION   --> */
+footer .mainsection {
+    padding: 0px 60px;
+    padding-top: 50px;
+    height: 80vh;
+    background-color: rgb(243, 247, 247);
+}
+
+
+/* <!-- FOR SECTION A  --> */
+footer .sectiona .c1 img {
+    height: 30px;
+}
+
+footer .sectiona .c2aa img {
+    height: 15px;
+}
+
+footer .sectiona .c2ab {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+footer .sectiona .c2a {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    border: 1px solid rgb(199, 195, 195);
+    padding: 7px;
+    border-radius: 5px;
+}
+
+footer .sectiona .c2b {
+    border: 1px solid rgb(199, 195, 195);
+    padding: 4px;
+    border-radius: 5px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+footer .sectiona .c2ba {
+    font-size: 16px;
+}
+
+footer .sectiona .c2bb {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+footer .sectiona .c2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+footer .sectiona {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* <!-- FOR SECTION B  --> */
+
+footer .sectionb .c1 {
+    margin-top: 30px;
+}
+
+footer .sectionb .c1a {
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+}
+
+footer .sectionb .c1b {
+    font-size: 14px;
+    color: gray;
+    word-spacing: 2px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+footer .sectionb .c2a {
+    display: flex;
+    gap: 7px;
+    margin-top: 10px;
+
+}
+
+footer .sectionb .c2a img {
+    height: 26px;
+
+}
+
+footer .sectionb .c3a .c3aa img {
+    height: 45px;
+}
+
+footer .sectionb .c3a .c3ab img {
+    height: 45px;
+}
+
+footer .sectionb .c3a {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+footer .sectionb{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+}
+
+/* FOR SECTION C */
+
+footer .sectionc{
+    margin-top: 50px;
+    
+}
+footer .sectionc .line{
+    border-bottom: 1px solid rgb(179, 175, 175) ;
+    margin-bottom: 25px;
+}
+
+footer .sectionc .para1,.para2{
+    font-size: 12px;
+    color: gray;
+}

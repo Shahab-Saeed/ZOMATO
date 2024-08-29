@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+/* <!-- FOR CHOICE SECTION  --> */
+footer .choicesection {
+    padding: 0px 60px;
+    padding-top: 50px;
+    
+}
+footer .choicesection .c1a{
+    font-size: 30px;
+    font-weight: 450;
+    margin-bottom: 15px;
+}
+
+footer .choicesectionb {
+    padding-top: 0px;
+    padding-right: 50px;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    margin-bottom: 40px;
+}
+
+
+footer .choicesectionb .c2a{
+    font-size: 20px;
+    font-weight: 300;
+  
+}
+
+footer .choicesectionb .c2{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(233, 227, 227);
+    padding: 15px;
+    
+    
+}
+
+/* <!-- FOR MAIN SECTION   --> */
+footer .mainsection {
+    padding: 0px 60px;
+    padding-top: 50px;
+    height: 80vh;
+    background-color: rgb(243, 247, 247);
+}
+
+
+/* <!-- FOR SECTION A  --> */
+footer .sectiona .c1 img {
+    height: 30px;
+}
+
+footer .sectiona .c2aa img {
+    height: 15px;
+}
+
+footer .sectiona .c2ab {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+footer .sectiona .c2a {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    border: 1px solid rgb(199, 195, 195);
+    padding: 7px;
+    border-radius: 5px;
+}
+
+footer .sectiona .c2b {
+    border: 1px solid rgb(199, 195, 195);
+    padding: 4px;
+    border-radius: 5px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+footer .sectiona .c2ba {
+    font-size: 16px;
+}
+
+footer .sectiona .c2bb {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+footer .sectiona .c2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+footer .sectiona {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* <!-- FOR SECTION B  --> */
+
+footer .sectionb .c1 {
+    margin-top: 30px;
+}
+
+footer .sectionb .c1a {
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+}
+
+footer .sectionb .c1b {
+    font-size: 14px;
+    color: gray;
+    word-spacing: 2px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+footer .sectionb .c2a {
+    display: flex;
+    gap: 7px;
+    margin-top: 10px;
+
+}
+
+footer .sectionb .c2a img {
+    height: 26px;
+
+}
+
+footer .sectionb .c3a .c3aa img {
+    height: 45px;
+}
+
+footer .sectionb .c3a .c3ab img {
+    height: 45px;
+}
+
+footer .sectionb .c3a {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+footer .sectionb{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+}
+
+/* FOR SECTION C */
+
+footer .sectionc{
+    margin-top: 50px;
+    
+}
+footer .sectionc .line{
+    border-bottom: 1px solid rgb(179, 175, 175) ;
+    margin-bottom: 25px;
+}
+
+footer .sectionc .para1,.para2{
+    font-size: 12px;
+    color: gray;
+}
